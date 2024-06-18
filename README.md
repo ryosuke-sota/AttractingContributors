@@ -22,3 +22,4 @@ Please write your favorite places in Japan below.</br>
 ・USJ<br/> 
 ・Tokyo Tower</br>
 ・Kinkaku Temple</br>
+・umihotaru</br>
