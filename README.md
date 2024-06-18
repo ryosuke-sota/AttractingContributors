@@ -20,3 +20,4 @@ Please write your favorite places in Japan below.</br>
 ・Todaiji Temple</br>
 ・Ginkaku Temple</br>
 ・USJ<br/> 
+・Kinkaku Temple</br>
