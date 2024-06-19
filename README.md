@@ -24,3 +24,4 @@ Please write your favorite places in Japan below.</br>
 ・Kinkaku Temple</br>
 ・umihotaru</br>
 ・Ryugashido</br>
+・NAIST</br>
