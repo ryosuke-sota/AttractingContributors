@@ -25,3 +25,4 @@ Please write your favorite places in Japan below.</br>
 ・umihotaru</br>
 ・Ryugashido</br>
 ・NAIST</br>
+・Otaru</br>
