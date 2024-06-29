@@ -5,4 +5,5 @@ What is your favorite anime?
 - cojicoji
 - chiikawa
 - PSYCHO-PASS
+- NARUTO
 - Yamikin Ushijima-kun
