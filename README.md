@@ -7,5 +7,5 @@ What is your favorite anime?
 6. PSYCHO-PASS
 7. NARUTO
 8. Yamikin Ushijima-kun
-9.
+9. yurucamp△
 10.
