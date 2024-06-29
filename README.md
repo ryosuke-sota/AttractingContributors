@@ -6,3 +6,4 @@ What is your favorite anime?
 - chiikawa
 - PSYCHO-PASS
 - NARUTO
+- Yamikin Ushijima-kun
