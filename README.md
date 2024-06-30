@@ -26,3 +26,4 @@ Please write your favorite places in Japan below.</br>
 ・Ryugashido</br>
 ・NAIST</br>
 ・Otaru</br>
+・Kobe</br>
