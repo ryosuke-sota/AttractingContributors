@@ -28,4 +28,8 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2. wireless earphones
 3. Portable Battery
 4. Full size key board (numeric keypad)
-5. Kindle Paperwhite (e-book reader)
+5. iPad
+6. Smartwatch
+7. wired headset
+8. BAFFALO SSD
+9. Kindle Paperwhite (e-book reader)
