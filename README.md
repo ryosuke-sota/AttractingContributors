@@ -32,4 +32,5 @@ Goal: I want contributors to help me list out their favorite artist.
 11. Talyor Swift
 12. Ella Fitgerald
 13. Bruno Mars
+14. Fujii Kaze
 
