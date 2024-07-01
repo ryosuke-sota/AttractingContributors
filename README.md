@@ -28,5 +28,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2. wireless earphones
 3. Portable Battery
 4. Full size key board (numeric keypad)
-5. Smartwatch
-6. wired headset
+5. iPad
+6. Smartwatch
+7. wired headset
