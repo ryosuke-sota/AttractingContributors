@@ -31,3 +31,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5. iPad
 6. Smartwatch
 7. wired headset
+8. BAFFALO SSD
