@@ -30,3 +30,5 @@ Goal: I want contributors to help me list out their favorite artist.
 9. Earth wind and fire
 10. Dua Lipa
 11. Talyor Swift
+12. Ella Fitgerald
+
